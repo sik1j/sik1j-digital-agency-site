@@ -22,9 +22,9 @@ const About: NextPage = () => {
             <p className="mt-8 text-2xl font-light tracking-wide">
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which don't look even
+              injected humour, or randomised words which don&apos;t look even
               slightly believable. If you are going to use a passage of Lorem
-              Ipsum, you need to be sure there isn't anything embarrassing
+              Ipsum, you need to be sure there isn&apos;t anything embarrassing
               hidden.
             </p>
           </div>
@@ -33,9 +33,9 @@ const About: NextPage = () => {
             <p className="mt-8 text-2xl font-light tracking-wide">
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which don't look even
+              injected humour, or randomised words which don&apos;t look even
               slightly believable. If you are going to use a passage of Lorem
-              Ipsum, you need to be sure there isn't anything embarrassing
+              Ipsum, you need to be sure there isn&apos;t anything embarrassing
               hidden.
             </p>
           </div>
@@ -44,9 +44,9 @@ const About: NextPage = () => {
             <p className="mt-8 text-2xl font-light tracking-wide">
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which don't look even
+              injected humour, or randomised words which don&apos;t look even
               slightly believable. If you are going to use a passage of Lorem
-              Ipsum, you need to be sure there isn't anything embarrassing
+              Ipsum, you need to be sure there isn&apos;t anything embarrassing
               hidden.
             </p>
           </div>
@@ -55,9 +55,9 @@ const About: NextPage = () => {
             <p className="mt-8 text-2xl font-light tracking-wide">
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which don't look even
+              injected humour, or randomised words which don&apos;t look even
               slightly believable. If you are going to use a passage of Lorem
-              Ipsum, you need to be sure there isn't anything embarrassing
+              Ipsum, you need to be sure there isn&apos;t anything embarrassing
               hidden.
             </p>
           </div>
@@ -69,9 +69,9 @@ const About: NextPage = () => {
           <p className="col-span-6 mt-8 text-2xl font-light leading-relaxed tracking-wide">
             There are many variations of passages of Lorem Ipsum available, but
             the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
+            humour, or randomised words which don&apos;t look even slightly
             believable. If you are going to use a passage of Lorem Ipsum, you
-            need to be sure there isn't anything embarrassing hidden.
+            need to be sure there isn&apos;t anything embarrassing hidden.
           </p>
         </div>
         <div className="col-span-4 col-start-9 mt-24 aspect-square w-full rounded-3xl bg-gray"></div>
